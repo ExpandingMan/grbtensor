@@ -1,0 +1,33 @@
+# ignore all byte code
+*.pyc
+
+# ignore the pickle files
+*.pkl
+*.pic
+
+# ignore csv's
+*.csv
+
+# vim backup
+*.swp
+
+# ignore plots, whatever else
+*.html
+
+# ignore logs
+*.log
+
+# ignore the stupid derby db
+metastore_db
+
+# ipython crap
+.ipynb_checkpoints
+
+# ignore latex output
+*.aux
+*.pdf
+
+# ignore eggs
+*.egg-info
+
+
